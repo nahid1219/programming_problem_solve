@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413853877 source:/home/dihan/practice/Practicecpp/main.cpp
+	<iostream>
+
+1413858354 source:/home/dihan/practice/Practicecpp/difference1000.cpp
+	<iostream>
+	<stdio.h>
+
